@@ -1,5 +1,4 @@
 import Amazon from '../pageObjects/amzPage'
-import { recurse } from 'cypress-recurse'
 
 describe('Selecting Item Module', function () {
 
